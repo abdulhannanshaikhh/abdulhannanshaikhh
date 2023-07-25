@@ -15,3 +15,10 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdul-hannan-sh](https://www.linkedin.com/in/abdul-hannan-sh)
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/abdul-hannan-sh" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="hannan" height="30" width="40" style="border-radius=260px;"/></a>
+<a href="https://github.com/abdulhannanshaikhh" target="blank"><img align="center" src="https://icon-library.com/images/github-icon-png/github-icon-png-29.jpg" alt="https://www.linkedin.com/in/abdul-hannan-sh" height="30" width="40" /></a>
+<a href="https://instagram.com/hannan_shaikhhx?igshid=ZDc4ODBmNjlmNQ==" target="blank"><img align="center" src="https://www.hansacequity.com/media-bucket/2022/08/instagram-round-color-icon-1.png" alt="hannan_shaikhhx" height="30" width="40" /></a>
+</p>
+
