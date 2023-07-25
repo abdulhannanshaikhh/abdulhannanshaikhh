@@ -22,3 +22,9 @@
 <a href="https://instagram.com/hannan_shaikhhx?igshid=ZDc4ODBmNjlmNQ==" target="blank"><img align="center" src="https://www.hansacequity.com/media-bucket/2022/08/instagram-round-color-icon-1.png" alt="hannan_shaikhhx" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1461px-CSS.3.svg.png" alt="css3" width="30" height="40"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" alt="javascript" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/sq/3/39/Java_logo.svg" alt="java" width="30" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" alt="php" width="40" height="40"/> </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFXQxk6fJpBPF8crOAsT5fzXPbtseFm0KUgg&usqp=CAU" alt="python" width="40" height="40"/> <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" alt="python" width="40" height="40"/>  </p>
+
+
+
