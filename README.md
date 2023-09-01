@@ -17,7 +17,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/abdul-hannan-sh" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F163371%2Flinkedin&psig=AOvVaw0z-QF8ChNWM75sqnRRxBE-&ust=1693674380909000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNi8_IzziYEDFQAAAAAdAAAAABAE" alt="linkedin" height="30" width="40" style="border-radius=260px;"/></a>
+<a href="https://www.linkedin.com/in/abdul-hannan-sh" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_2175195&psig=AOvVaw0z-QF8ChNWM75sqnRRxBE-&ust=1693674380909000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNi8_IzziYEDFQAAAAAdAAAAABAJ" alt="linkedin" height="30" width="40" style="border-radius=260px;"/></a>
 <a href="https://github.com/abdulhannanshaikhh" target="blank"><img align="center" src="https://icon-library.com/images/github-icon-png/github-icon-png-29.jpg" alt="github" height="30" width="40" /></a>
 <a href="https://instagram.com/hannan_shaikhhx?igshid=ZDc4ODBmNjlmNQ==" target="blank"><img align="center" src="https://www.hansacequity.com/media-bucket/2022/08/instagram-round-color-icon-1.png" alt="instagram" height="30" width="40" /></a>
 </p>
