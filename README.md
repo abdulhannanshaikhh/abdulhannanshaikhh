@@ -17,8 +17,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/abdul-hannan-sh" target="blank"><img align="center" src="![image](https://github.com/abdulhannanshaikhh/abdulhannanshaikhh/assets/119074296/37ba0dcd-ceb5-4556-ba06-8c09ee6b9444)
-" alt="linkedin" height="30" width="40" style="border-radius=260px;"/></a>
+<a href="https://www.linkedin.com/in/abdul-hannan-sh" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="linkedin" height="30" width="40" style="border-radius=260px;"/></a>
 <a href="https://github.com/abdulhannanshaikhh" target="blank"><img align="center" src="https://icon-library.com/images/github-icon-png/github-icon-png-29.jpg" alt="github" height="30" width="40" /></a>
 <a href="https://instagram.com/hannan_shaikhhx?igshid=ZDc4ODBmNjlmNQ==" target="blank"><img align="center" src="https://www.hansacequity.com/media-bucket/2022/08/instagram-round-color-icon-1.png" alt="instagram" height="30" width="40" /></a>
 </p>
