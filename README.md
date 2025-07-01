@@ -10,7 +10,7 @@
   <li>Former Research Intern at <strong>Taipei Medical University</strong></li>
   <li>Former Full-Stack Web Development Intern at <strong>Vyza Solutions</strong></li>
   <li>B.Tech in Computer Engineering | <strong>Presidency University</strong>, Bangalore</li>
-  <li>Currently Learning - DevOps, Advanced AI/ML and Data Analytics /li>
+  <li>Currently Learning - DevOps, Advanced AI/ML and Data Analytics</li>
  <li>
     Reach me at:
     <a href="mailto:abdulhannan.shaikhh@gmail.com" style="text-decoration:none" target="_blank">
@@ -30,7 +30,7 @@
     </a>
   </li>
 </ul>
-
+<br>
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
@@ -38,7 +38,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" />
   </a>
   <a href="https://github.com/abdulhannanshaikhh" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" alt="GitHub" />
+    <img src="[https://cdn-icons-png.flaticon.com/512/25/25231.png](https://cdn-icons-png.flaticon.com/512/25/25231.png)" width="30" alt="GitHub" />
   </a>
   <a href="mailto:abdulhannan.shaikhh@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail" />
