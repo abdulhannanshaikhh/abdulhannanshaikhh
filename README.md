@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Hannan</h1>
-<h3 align="center">Software Engineer | Full Stack Engineer </h3><br>
+<h3 align="center">Software Engineer | Full Stack Engineer </h3>
 
 <h3 align="center">Software Development | Full Stack Application Development | AI/ML | Data Engineering </h3><br>
 
