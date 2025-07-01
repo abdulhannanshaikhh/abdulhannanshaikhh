@@ -10,8 +10,9 @@
   <li> Former Research Intern at <strong>Taipei Medical University</strong></li>
   <li> Former Full-Stack Web Development Intern at <strong>Vyza Solutions</strong></li>
   <li> B.Tech in Computer Engineering | <strong>Presidency University</strong>, Bangalore</li>
+  <li> Currently Learning - DevOps, Advanced AI/ML, Data Analytics and Software Development</li>
+  <li>📫 Reach me at: <a href="mailto:abdulhannan.shaikhh@gmail.com" style="text-decoration:none">abdulhannan.shaikhh@gmail.com</a></li>
   <li>👨‍💻 Check out my work on <a href="https://github.com/abdulhannanshaikhh" target="_blank">GitHub</a></li>
-  <li>📫 Reach me at: <a href="mailto:abdulhannan.shaikhh@gmail.com">abdulhannan.shaikhh@gmail.com</a></li>
   <li>📄 View my profile: <a href="https://www.linkedin.com/in/abdul-hannan-" target="_blank">LinkedIn</a></li>
 </ul>
 
