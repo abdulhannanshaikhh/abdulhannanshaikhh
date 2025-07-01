@@ -10,7 +10,7 @@
   <li>Former Research Intern at <strong>Taipei Medical University</strong></li>
   <li>Former Full-Stack Web Development Intern at <strong>Vyza Solutions</strong></li>
   <li>B.Tech in Computer Engineering | <strong>Presidency University</strong>, Bangalore</li>
-  <li>Currently Learning - DevOps, Advanced AI/ML, Data Analytics and Software Development</li>
+  <li>Currently Learning - DevOps, Advanced AI/ML and Data Analytics /li>
   <li>📫 Reach me at: abdulhannan.shaikhh [at] gmail [dot] com</li>
   <li>👨‍💻 GitHub: github.com/<strong>abdulhannanshaikhh</strong></li>
   <li>📄 LinkedIn: linkedin.com/in/<strong>abdul-hannan-</strong></li>
@@ -20,15 +20,16 @@
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-hannan-sh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Hannan-blue?style=flat-square&logo=linkedin" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
   </a>
   <a href="https://github.com/abdulhannanshaikhh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-abdulhannanshaikhh-black?style=flat-square&logo=github" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />
   </a>
   <a href="mailto:abdulhannan.shaikhh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-abdulhannan.shaikhh@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" alt="Gmail" />
   </a>
 </p>
+
 
 <hr/>
 
