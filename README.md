@@ -11,24 +11,25 @@
   <li>Former Full-Stack Web Development Intern at <strong>Vyza Solutions</strong></li>
   <li>B.Tech in Computer Engineering | <strong>Presidency University</strong>, Bangalore</li>
   <li>Currently Learning - DevOps, Advanced AI/ML and Data Analytics /li>
-  <li>📫 Reach me at: abdulhannan.shaikhh [at] gmail [dot] com</li>
-  <li>👨‍💻 GitHub: github.com/<strong>abdulhannanshaikhh</strong></li>
-  <li>📄 LinkedIn: linkedin.com/in/<strong>abdul-hannan-</strong></li>
+  <li>Reach me at: abdulhannan.shaikhh@gmail.com</li>
+  <li>GitHub: github.com/<strong>abdulhannanshaikhh</strong></li>
+  <li>LinkedIn: linkedin.com/in/<strong>abdul-hannan-</strong></li>
 </ul>
 
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-hannan-sh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" />
   </a>
   <a href="https://github.com/abdulhannanshaikhh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" alt="GitHub" />
   </a>
   <a href="mailto:abdulhannan.shaikhh@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" alt="Gmail" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail" />
   </a>
 </p>
+
 
 
 <hr/>
