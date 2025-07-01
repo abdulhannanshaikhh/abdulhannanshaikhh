@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abdul Hannan</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Passionate Learner</h3>
+<h3 align="center">Software Engineer | Full Stack Engineer </h3><br>
+
+<h3 align="center">Software Development | Full Stack Application Development | AI/ML | Data Engineering </h3><br>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <ul>
-  <li>🔭 I’m currently working on <strong>Toolhub.io</strong></li>
-  <li>🌱 Learning never stops – currently exploring <strong>React.js, JavaScript, and Cloud Technologies</strong></li>
-  <li>👨‍💻 All my projects are available on <a href="https://github.com/abdulhannanshaikhh" target="_blank">GitHub</a></li>
-  <li>💬 Ask me about <strong>HTML, CSS, JavaScript, Spring Boot</strong></li>
+  <li> Software Engineer at <strong>Capgemini</strong>, working on scalable enterprise applications</li>
+  <li> Former Research Intern at <strong>Taipei Medical University</strong></li>
+  <li> Former Full-Stack Web Development Intern at <strong>Vyza Solutions</strong></li>
+  <li> B.Tech in Computer Engineering | <strong>Presidency University</strong>, Bangalore</li>
+  <li>👨‍💻 Check out my work on <a href="https://github.com/abdulhannanshaikhh" target="_blank">GitHub</a></li>
   <li>📫 Reach me at: <a href="mailto:abdulhannan.shaikhh@gmail.com">abdulhannan.shaikhh@gmail.com</a></li>
-  <li>📄 Learn more about me on <a href="https://www.linkedin.com/in/abdul-hannan-" target="_blank">LinkedIn</a></li>
+  <li>📄 View my profile: <a href="https://www.linkedin.com/in/abdul-hannan-" target="_blank">LinkedIn</a></li>
 </ul>
-
-<hr/>
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
