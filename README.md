@@ -38,7 +38,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" />
   </a>
   <a href="https://github.com/abdulhannanshaikhh" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" alt="GitHub" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="30" alt="GitHub" />
   </a>
   <a href="mailto:abdulhannan.shaikhh@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail" />
