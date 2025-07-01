@@ -6,26 +6,27 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <ul>
-  <li> Software Engineer at <strong>Capgemini</strong>, working on scalable enterprise applications</li>
-  <li> Former Research Intern at <strong>Taipei Medical University</strong></li>
-  <li> Former Full-Stack Web Development Intern at <strong>Vyza Solutions</strong></li>
-  <li> B.Tech in Computer Engineering | <strong>Presidency University</strong>, Bangalore</li>
-  <li> Currently Learning - DevOps, Advanced AI/ML, Data Analytics and Software Development</li>
-  <li>📫 Reach me at: <a href="mailto:abdulhannan.shaikhh@gmail.com" style="text-decoration:none">abdulhannan.shaikhh@gmail.com</a></li>
-  <li>👨‍💻 Check out my work on <a href="https://github.com/abdulhannanshaikhh" target="_blank">GitHub</a></li>
-  <li>📄 View my profile: <a href="https://www.linkedin.com/in/abdul-hannan-" target="_blank">LinkedIn</a></li>
+  <li>Software Engineer at <strong>Capgemini</strong>, working on scalable enterprise applications</li>
+  <li>Former Research Intern at <strong>Taipei Medical University</strong></li>
+  <li>Former Full-Stack Web Development Intern at <strong>Vyza Solutions</strong></li>
+  <li>B.Tech in Computer Engineering | <strong>Presidency University</strong>, Bangalore</li>
+  <li>Currently Learning - DevOps, Advanced AI/ML, Data Analytics and Software Development</li>
+  <li>📫 Reach me at: abdulhannan.shaikhh [at] gmail [dot] com</li>
+  <li>👨‍💻 GitHub: github.com/<strong>abdulhannanshaikhh</strong></li>
+  <li>📄 LinkedIn: linkedin.com/in/<strong>abdul-hannan-</strong></li>
 </ul>
+
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-hannan-" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
+  <a href="https://www.linkedin.com/in/abdul-hannan-sh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Hannan-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/abdulhannanshaikhh" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40" />
+    <img src="https://img.shields.io/badge/GitHub-abdulhannanshaikhh-black?style=flat-square&logo=github" />
   </a>
-  <a href="https://instagram.com/hannan_shaikhhx" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" />
+  <a href="mailto:abdulhannan.shaikhh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-abdulhannan.shaikhh@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
