@@ -34,7 +34,7 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-hannan-sh" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-hannan-" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" />
   </a>
   <a href="https://github.com/abdulhannanshaikhh" target="_blank">
