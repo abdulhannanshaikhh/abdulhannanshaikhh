@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<h3 align="center">Software Development | Full Stack Application Development | AI/ML | Data Engineering </h3><br>
+<h3 align="center">Software Development | Full Stack Application Development | AI/ML | Data Engineering </h3>
 
 
 
