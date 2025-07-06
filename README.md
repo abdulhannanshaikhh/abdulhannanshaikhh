@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Abdul Hannan</h1>
 <h3 align="center">Software Engineer | Full Stack Engineer </h3>
 
-<h3 align="center">Software Development | Full Stack Application Development | AI/ML | Data Engineering </h3><br>
-
 <ul>
   <li>Software Engineer at <strong>Capgemini</strong>, working on scalable enterprise applications</li>
   <li>Former Research Intern at <strong>Taipei Medical University</strong></li>
@@ -24,6 +22,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail" />
   </a>
 </p>
+
+<h3 align="center">Software Development | Full Stack Application Development | AI/ML | Data Engineering </h3><br>
 
 
 
