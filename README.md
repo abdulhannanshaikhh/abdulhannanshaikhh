@@ -4,7 +4,7 @@
 <h3 align="center">Software Development | Full Stack Application Development | AI/ML | Data Engineering </h3><br>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
+<br>
 <ul>
   <li>Software Engineer at <strong>Capgemini</strong>, working on scalable enterprise applications</li>
   <li>Former Research Intern at <strong>Taipei Medical University</strong></li>
