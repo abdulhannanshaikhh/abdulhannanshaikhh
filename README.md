@@ -3,32 +3,13 @@
 
 <h3 align="center">Software Development | Full Stack Application Development | AI/ML | Data Engineering </h3><br>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-<br>
 <ul>
   <li>Software Engineer at <strong>Capgemini</strong>, working on scalable enterprise applications</li>
   <li>Former Research Intern at <strong>Taipei Medical University</strong></li>
   <li>Former Full-Stack Web Development Intern at <strong>Vyza Solutions</strong></li>
   <li>B.Tech in Computer Engineering | <strong>Presidency University</strong>, Bangalore</li>
   <li>Currently Learning - DevOps, Advanced AI/ML and Data Analytics</li>
- <li>
-    Reach me at:
-    <a href="mailto:abdulhannan.shaikhh@gmail.com" style="text-decoration:none" target="_blank">
-      abdulhannan.shaikhh@gmail.com
-    </a>
-  </li>
-  <li>
-    GitHub:
-    <a href="https://github.com/abdulhannanshaikhh" style="text-decoration:none" target="_blank">
-      github.com/<strong>abdulhannanshaikhh</strong>
-    </a>
-  </li>
-  <li>
-    LinkedIn:
-    <a href="https://www.linkedin.com/in/abdul-hannan-" style="text-decoration:none" target="_blank">
-      linkedin.com/in/<strong>abdul-hannan-</strong>
-    </a>
-  </li>
+ 
 </ul>
 <br>
 
